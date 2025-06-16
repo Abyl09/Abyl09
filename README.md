@@ -1,16 +1,20 @@
-## Hi there 👋
+## Welcome! I'm Lyba - a curious mind in data and health 👋
 
-<!--
-**Abyl09/Abyl09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Biomedical Engineering @ UofT | Working in healthcare research
+📊 Passionate about turning healthcare data into meaningful insights and smarter decisions
+🛠️ Currently learning Python, SQL & data visualization to make numbers meaningful
 
-Here are some ideas to get you started:
+### 🔍 About Me
+I work in healthcare research, exploring the world of data analytics to drive smarter decisions in healthcare and beyond. With a background in clinical research and coding experience from my master’s, I love digging into data and turning it into something real — whether it’s uncovering trends in global health or optimizing trial workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Right now, I’m building small but mighty data projects to grow my skills. Open to collaborations, feedback, and new opportunities!
+
+### 🚀 Featured Projects
+
+
+### 🤝 Let’s Connect!
+
+📫 [Email](mailto:lyba.sheraz@mail.utoronto.ca)  
+🔗 [LinkedIn](https://www.linkedin.com/in/lyba-sheraz-3a96791a9)  
+🧠 Always open to learning, building, and helping out where I can!
 -->
