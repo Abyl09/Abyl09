@@ -7,7 +7,7 @@
 🛠️ Currently learning Python, SQL & data visualization to make numbers meaningful
 
 ### 🔍 About Me
-I work in healthcare research, exploring the world of data analytics to drive smarter decisions in healthcare and beyond. With a background in clinical research and coding experience from my master’s, I love digging into data and turning it into something real — whether it’s uncovering trends in global health or optimizing trial workflows.
+I work in clinical research, exploring the world of data analytics to drive smarter decisions in healthcare and beyond. With a background in clinical research and coding experience from my master’s, I love digging into data and turning it into something real — whether it’s uncovering trends in global health or optimizing trial workflows.
 
 Right now, I’m building small but mighty data projects to grow my skills. Open to collaborations, feedback, and new opportunities!
 
