@@ -1,7 +1,9 @@
 ## Welcome! I'm Lyba - a curious mind in data and health 👋
 
 🎓 Biomedical Engineering @ UofT | Working in healthcare research
+
 📊 Passionate about turning healthcare data into meaningful insights and smarter decisions
+
 🛠️ Currently learning Python, SQL & data visualization to make numbers meaningful
 
 ### 🔍 About Me
