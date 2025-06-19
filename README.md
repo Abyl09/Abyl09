@@ -11,8 +11,6 @@ I work in healthcare research, exploring the world of data analytics to drive sm
 
 Right now, I’m building small but mighty data projects to grow my skills. Open to collaborations, feedback, and new opportunities!
 
-### 🚀 Featured Projects
-
 
 ### 🤝 Let’s Connect!
 
